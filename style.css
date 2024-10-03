@@ -1,0 +1,80 @@
+h1{
+    background-color: cornflowerblue;
+    font-family: "Comic Sans MS",serif;
+}
+
+h2 {
+    color: mediumpurple;
+    font-family: "Comic Sans MS",serif;
+
+}
+
+p {
+    color: lightpink;
+    text-align: center;
+    line-height: 160%;
+    font-family: "Comic Sans MS",serif;
+
+}
+
+li {
+    color: skyblue;
+    font-style: italic;
+    text-align: center;
+    font-family: "Comic Sans MS",serif;
+}
+
+button {
+    color: white;
+    background-color:darkred;
+    font-family: "Times New Roman",serif;
+
+}
+
+th{
+    color: white;
+    background-color: mediumpurple;
+}
+
+tr {
+    color: white;
+    background-color: skyblue;
+}
+
+
+div {
+    height: 10px;
+    width: 10px;
+}
+
+#Art{
+    background-color: darkred;
+}
+
+#Science {
+    background-color: orangered;
+}
+
+#Spanish {
+    background-color: mediumseagreen;
+}
+
+#History {
+    background-color:darkblue;
+}
+
+#Math {
+    background-color: rebeccapurple;
+}
+
+#Music {
+    background-color: hotpink;
+}
+
+#English {
+    background-color: black;
+}
+
+#Advisory {
+    background-color: saddlebrown;
+}
